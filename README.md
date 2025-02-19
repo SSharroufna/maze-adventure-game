@@ -42,10 +42,7 @@ The Observer pattern is used to update the game state on the web service or UI w
 
 The app can be run either through the terminal or as a web service.
 
-# Steps to Run:
-
-1- Start the Service: Launch the application using Spring Boot.
-2- Visit the base URL http://localhost:9090 in your browser.
+Steps to Run: Clone project, Start the Service, Visit the base URL http://localhost:9090 in your browser.
 
 Example:
 It should look like this:
