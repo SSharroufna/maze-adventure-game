@@ -10,10 +10,10 @@ This is a maze based game. Characters are randomly placed on each room. We have 
 This project leverages a variety of Object-Oriented Design Patterns to create a flexible and scalable system. Below are the key patterns used:
 
 1. Factory Pattern:
-The ArtifactFactory and CharacterFactory classes are responsible for creating objects such as characters (e.g., Knight, Adventurer) and items (e.g., Food, Armor). This pattern allows for easy modifications or additions to character and item creation logic without modifying the rest of the game logic.
+The ArtifactFactory and CharacterFactory classes are responsible for creating objects such as characters (e.g., Knight, Adventurer) and items (e.g., Food, Armor).
 
 3. Singleton Pattern:
-The Dice class uses the Singleton pattern to ensure there is a single instance of the die-rolling mechanism. This prevents the creation of unnecessary multiple instances and guarantees consistent random number generation.
+The Dice class uses the Singleton pattern to ensure there is a single instance of the die-rolling mechanism.
 
 5. Builder Pattern
 The MazeBuilder class allows us to construct a maze with different room configurations step by step. Similarly, it is used to create complex character objects.
