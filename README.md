@@ -4,6 +4,16 @@
 
 This is a maze based game. Characters are randomly placed on each room. We have adeventurers( Human, Knight, Gluton, Coward ) and creatures ( Dragons, Creatures ) . Each have different health, power, characteris. In each room, there might be food or Armour. Food can be eaten to increase health or defense level. 
 
+## OOAD 
+
+1- Polymorphism: Allows different types of characters (e.g., Knight, Dragon) to share behaviors through a common interface, but each can implement its behavior differently (e.g., attack or defense).
+
+2- Inheritance: Common attributes and actions (e.g., health, power, attack) are inherited from a base class, simplifying the addition of new character or creature types.
+
+3- Encapsulation: Objects are self-contained, with their own properties and methods, ensuring clean game logic and reducing complexity.
+
+4- Abstraction: Hides complex processes (like maze generation or combat mechanics) behind simple interfaces, making it easier for players to focus on gamepl
+
 
 ## Design Patterns & Principles
 
