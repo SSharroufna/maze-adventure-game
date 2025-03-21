@@ -2,7 +2,7 @@
 
 ## Game Descriptions 
 
-This is a maze based game. Characters are randomly placed on each room. We have adeventurers( Human, Knight, Gluton, Coward ) and creatures ( Dragons, Creatures ) . Each have different health, power, characteris. In each room, there might be food or Armour. Food can be eaten to increase health or defense level. 
+This is a maze based game. Characters are randomly placed on each room. We have adeventurers( Human, Knight, Gluton, Coward ) and creatures ( Dragons, Creatures ) . Each have different health, power, attack strategy. In each room, there might be food or Armour. Food can be eaten to increase health or defense level. 
 
 ## OOAD 
 
